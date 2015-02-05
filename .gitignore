@@ -2,3 +2,5 @@
 **/*.o
 **/*.bak
 
+/Java/2013oktober18-Jaror/nbproject/private/
+/Java/2013oktober18-Jaror/build/
